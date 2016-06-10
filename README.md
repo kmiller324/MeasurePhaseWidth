@@ -20,4 +20,4 @@ To convert from a raw image to a stretched image.
 Notes:
 1. This only measures width along the y-axis, thus raw images may need to be rotated. 
 2. An error message occurs if a subregion of the image (that does not span the top to bottom) is selected. 
-   A work around is to crop the image before running the plugin.
+   A work around is to crop the image before running the plugin. 
