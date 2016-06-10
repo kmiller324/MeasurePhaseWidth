@@ -1,7 +1,7 @@
 # MeasurePhaseWidth
 kmiller324 released this on Mar 22
 
-An ImageJ plugin for measuring width of objects in the y dimension aquired by phase microscopy.
+An ImageJ plugin for measuring the width of objects in the y dimension aquired by phase microscopy.
 
 To install, download the plugin and put the java file into the ImageJ plugins folder. 
 Then use the Plugins > Compile and Run function to generate the class files needed to run the plugin. 
